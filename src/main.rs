@@ -45,7 +45,7 @@ struct Args {
     ignore_robots: bool,
 
     /// Maximum number of concurrent requests
-    #[clap(short = 'c', long, default_value = "100")]
+    #[clap(short = 'c', long, default_value = "10")]
     concurrency: usize,
 }
 
