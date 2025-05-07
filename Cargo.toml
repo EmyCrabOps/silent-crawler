@@ -2,7 +2,7 @@
 name = "silent-crawler"
 version = "0.1.0"
 edition = "2021"
-authors = ["ColdCodeEmy <official.olaemy@gmail.com> "]
+authors = ["spec-emy <official.olaemy@gmail.com> "]
 description = "A fast web crawler written in Rust"
 readme = "README.md"
 
